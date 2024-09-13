@@ -33,7 +33,7 @@ Mobility Director는 자동차 매뉴얼을 읽고 사용자의 질문에 대해
   </tr>
   <tr>
     <td>@SnorLaXD98</td>
-    <td>@MOONisYOUNG</td>
+    <td>@4jam</td>
     <td>@Seo-jong-ho</td>
     <td>@jwjang1</td>
   </tr>
