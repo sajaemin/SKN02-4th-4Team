@@ -98,6 +98,10 @@ Mobility Director는 자동차 매뉴얼을 읽고 사용자의 질문에 대해
 
 
 ## 📚 수행결과
+<img src="https://github.com/user-attachments/assets/e4102cd8-6f27-4544-b24f-380f8c9015e1" />
+<img src="https://github.com/user-attachments/assets/1d766509-3c03-4f2a-97d1-191a93d38d5c" />
+<img src="https://github.com/user-attachments/assets/d500834a-4c59-4377-8421-d5e5440494d4" />
+
 
 
 ## 📚 한줄 회고
