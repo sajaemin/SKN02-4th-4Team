@@ -62,9 +62,6 @@ Mobility Director는 자동차 매뉴얼을 읽고 사용자의 질문에 대해
 #### Web Development (웹 개발)
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 
-## 📝 WBS
-
-
 ## ✅ 요구사항 명세서
 
 ### 1. 프로젝트 범위
@@ -98,10 +95,6 @@ Mobility Director는 자동차 매뉴얼을 읽고 사용자의 질문에 대해
 ## 💻 DB 테이블 - ERD 및 DDL
 <img src="https://github.com/user-attachments/assets/eb7c8b6b-2181-44ae-9314-94db1cc08b70" />
 <img src="https://github.com/user-attachments/assets/5b26d713-22e9-4ac0-b73e-5be80b3a7a65" />
-
-
-
-## 📚 주요 프로시저
 
 
 ## 📚 수행결과
